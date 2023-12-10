@@ -1,0 +1,226 @@
+D:\CV\BikesApp\BikesApp\bin\BikesApp.dll.config
+D:\CV\BikesApp\BikesApp\bin\BikesApp.dll
+D:\CV\BikesApp\BikesApp\bin\BikesApp.pdb
+D:\CV\BikesApp\BikesApp\bin\roslyn\csc.exe
+D:\CV\BikesApp\BikesApp\bin\roslyn\csc.exe.config
+D:\CV\BikesApp\BikesApp\bin\roslyn\csc.rsp
+D:\CV\BikesApp\BikesApp\bin\roslyn\csi.exe
+D:\CV\BikesApp\BikesApp\bin\roslyn\csi.exe.config
+D:\CV\BikesApp\BikesApp\bin\roslyn\csi.rsp
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CV\BikesApp\BikesApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.AppContext.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Collections.Immutable.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Console.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.IO.Compression.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.IO.FileSystem.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Net.Http.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Net.Sockets.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.ValueTuple.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Xml.XPath.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CV\BikesApp\BikesApp\bin\roslyn\vbc.exe
+D:\CV\BikesApp\BikesApp\bin\roslyn\vbc.exe.config
+D:\CV\BikesApp\BikesApp\bin\roslyn\vbc.rsp
+D:\CV\BikesApp\BikesApp\bin\roslyn\VBCSCompiler.exe
+D:\CV\BikesApp\BikesApp\bin\roslyn\VBCSCompiler.exe.config
+D:\CV\BikesApp\BikesApp\bin\Antlr3.Runtime.dll
+D:\CV\BikesApp\BikesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CV\BikesApp\BikesApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CV\BikesApp\BikesApp\bin\Newtonsoft.Json.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Helpers.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Mvc.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Optimization.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Razor.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.WebPages.Deployment.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.WebPages.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.WebPages.Razor.dll
+D:\CV\BikesApp\BikesApp\bin\WebGrease.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Helpers.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.Mvc.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.Optimization.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.Razor.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.WebPages.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.WebPages.Deployment.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.WebPages.Razor.xml
+D:\CV\BikesApp\BikesApp\bin\Newtonsoft.Json.xml
+D:\CV\BikesApp\BikesApp\bin\Antlr3.Runtime.pdb
+D:\CV\BikesApp\BikesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CV\BikesApp\BikesApp\obj\Debug\BikesApp.csproj.AssemblyReference.cache
+D:\CV\BikesApp\BikesApp\obj\Debug\BikesApp.csproj.CoreCompileInputs.cache
+D:\CV\BikesApp\BikesApp\obj\Debug\BikesApp.csproj.CopyComplete
+D:\CV\BikesApp\BikesApp\obj\Debug\BikesApp.dll
+D:\CV\BikesApp\BikesApp\obj\Debug\BikesApp.pdb
+D:\CV\BikesApp\BikesApp\bin\bikeStoreDb.exe
+D:\CV\BikesApp\BikesApp\bin\EntityFramework.dll
+D:\CV\BikesApp\BikesApp\bin\EntityFramework.SqlServer.dll
+D:\CV\BikesApp\BikesApp\bin\bikeStoreDb.pdb
+D:\CV\BikesApp\BikesApp\bin\bikeStoreDb.exe.config
+D:\CV\BikesApp\BikesApp\bin\EntityFramework.xml
+D:\CV\BikesApp\BikesApp\bin\EntityFramework.SqlServer.xml
+D:\CV\BikesApp\BikesApp\bin\Newtonsoft.Json.Bson.dll
+D:\CV\BikesApp\BikesApp\bin\System.Buffers.dll
+D:\CV\BikesApp\BikesApp\bin\System.Memory.dll
+D:\CV\BikesApp\BikesApp\bin\System.Net.Http.Formatting.dll
+D:\CV\BikesApp\BikesApp\bin\System.Numerics.Vectors.dll
+D:\CV\BikesApp\BikesApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CV\BikesApp\BikesApp\bin\System.Threading.Tasks.Extensions.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Http.dll
+D:\CV\BikesApp\BikesApp\bin\System.Web.Http.WebHost.dll
+D:\CV\BikesApp\BikesApp\bin\Newtonsoft.Json.Bson.pdb
+D:\CV\BikesApp\BikesApp\bin\Newtonsoft.Json.Bson.xml
+D:\CV\BikesApp\BikesApp\bin\System.Buffers.xml
+D:\CV\BikesApp\BikesApp\bin\System.Memory.xml
+D:\CV\BikesApp\BikesApp\bin\System.Net.Http.Formatting.xml
+D:\CV\BikesApp\BikesApp\bin\System.Numerics.Vectors.xml
+D:\CV\BikesApp\BikesApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CV\BikesApp\BikesApp\bin\System.Threading.Tasks.Extensions.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.Http.xml
+D:\CV\BikesApp\BikesApp\bin\System.Web.Http.WebHost.xml
+D:\CV\BikesApp\BikesApp\bin\Autofac.dll
+D:\CV\BikesApp\BikesApp\bin\Autofac.Integration.WebApi.dll
+D:\CV\BikesApp\BikesApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CV\BikesApp\BikesApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CV\BikesApp\BikesApp\bin\Autofac.xml
+D:\CV\BikesApp\BikesApp\bin\Autofac.Integration.WebApi.xml
+D:\CV\BikesApp\BikesApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CV\BikesApp\BikesApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CV - Copy\BikesApp\BikesApp\obj\Debug\BikesApp.csproj.AssemblyReference.cache
+D:\CV - Copy\BikesApp\BikesApp\obj\Debug\BikesApp.csproj.CoreCompileInputs.cache
+D:\CV - Copy\BikesApp\BikesApp\obj\Debug\BikesApp.dll
+D:\CV - Copy\BikesApp\BikesApp\obj\Debug\BikesApp.pdb
+D:\CV - Copy\BikesApp\BikesApp\bin\BikesApp.dll.config
+D:\CV - Copy\BikesApp\BikesApp\bin\BikesApp.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\BikesApp.pdb
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\csc.exe
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\csc.exe.config
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\csc.rsp
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\csi.exe
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\csi.exe.config
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\csi.rsp
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.AppContext.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Collections.Immutable.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Console.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.IO.Compression.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.IO.FileSystem.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Net.Http.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Net.Sockets.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.ValueTuple.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Xml.XPath.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\vbc.exe
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\vbc.exe.config
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\vbc.rsp
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\VBCSCompiler.exe
+D:\CV - Copy\BikesApp\BikesApp\bin\roslyn\VBCSCompiler.exe.config
+D:\CV - Copy\BikesApp\BikesApp\bin\Antlr3.Runtime.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Autofac.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Autofac.Integration.WebApi.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\bikeStoreDb.exe
+D:\CV - Copy\BikesApp\BikesApp\bin\EntityFramework.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\EntityFramework.SqlServer.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Microsoft.Web.Infrastructure.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Newtonsoft.Json.Bson.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\Newtonsoft.Json.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Buffers.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Memory.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Net.Http.Formatting.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Numerics.Vectors.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Threading.Tasks.Extensions.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Helpers.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Http.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Http.WebHost.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Mvc.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Optimization.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Razor.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.WebPages.Deployment.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.WebPages.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.WebPages.Razor.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\WebGrease.dll
+D:\CV - Copy\BikesApp\BikesApp\bin\bikeStoreDb.pdb
+D:\CV - Copy\BikesApp\BikesApp\bin\bikeStoreDb.exe.config
+D:\CV - Copy\BikesApp\BikesApp\bin\Autofac.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\Autofac.Integration.WebApi.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\EntityFramework.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\EntityFramework.SqlServer.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\Newtonsoft.Json.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\Newtonsoft.Json.Bson.pdb
+D:\CV - Copy\BikesApp\BikesApp\bin\Newtonsoft.Json.Bson.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Buffers.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Memory.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Net.Http.Formatting.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Numerics.Vectors.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Threading.Tasks.Extensions.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Http.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Http.WebHost.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Helpers.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Mvc.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Optimization.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.Razor.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.WebPages.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.WebPages.Deployment.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\System.Web.WebPages.Razor.xml
+D:\CV - Copy\BikesApp\BikesApp\bin\Antlr3.Runtime.pdb
+D:\CV - Copy\BikesApp\BikesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CV - Copy\BikesApp\BikesApp\obj\Debug\BikesApp.csproj.CopyComplete
